@@ -1,0 +1,24 @@
+{
+  "name": "okexchain-transaction-cli",
+  "version": "1.0.0",
+  "description": "This is just to test the test that initiates okexchain transactions and contract transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbang/okexchain-transaction-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anbang/okexchain-transaction-cli/issues"
+  },
+  "homepage": "https://github.com/anbang/okexchain-transaction-cli#readme",
+  "dependencies": {
+    "@okexchain/javascript-sdk": "0.0.31",
+    "web3": "^1.3.4"
+  }
+}
