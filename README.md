@@ -1,0 +1,2 @@
+# okexchain-transaction-cli
+这只是为了测试okexchain普通转账和发起合约内交易的测试
